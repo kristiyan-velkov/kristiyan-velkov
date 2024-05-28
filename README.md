@@ -30,32 +30,32 @@ I have earned over 100+ certificates from various platforms, showcasing my commi
 
 - **[Amazon Web Services (AWS)](https://www.aws.training/)**
   - [AWS Cloud Solutions Architect](https://www.coursera.org/account/accomplishments/professional-cert/44TP3RUYAZGW)
-  - [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/professional-cert/YK37U9LC9ZAJ)
-  - [Building Modern Node.js Applications on AWS](https://www.coursera.org/account/accomplishments/professional-cert/QYXXZFSPSVWY)
+  - [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/verify/YK37U9LC9ZAJ)
+  - [Building Modern Node.js Applications on AWS](https://www.coursera.org/account/accomplishments/verify/QYXXZFSPSVWY)
 
 - **[University of Maryland](https://www.umd.edu/)**
-  - [Cybersecurity for Everyone](https://www.coursera.org/account/accomplishments/professional-cert/FJ97HMPVJZQV)
+  - [Cybersecurity for Everyone](https://www.coursera.org/account/accomplishments/verify/FJ97HMPVJZQV)
 
 - **[Microsoft](https://www.microsoft.com/en-us/learning/default.aspx)**
-  - [Deploy a website to Azure with Azure App Service](https://www.coursera.org/account/accomplishments/professional-cert/DGECWWTN6DVU)
+  - [Deploy a website to Azure with Azure App Service](https://www.coursera.org/account/accomplishments/verify/DGECWWTN6DVU)
 
 - **[IBM](https://www.ibm.com/training/)**
-  - [Developing Cloud Apps with Node.js and React](https://www.coursera.org/account/accomplishments/professional-cert/KU2Y5ES3LD2W)
+  - [Developing Cloud Apps with Node.js and React](https://www.coursera.org/account/accomplishments/verify/KU2Y5ES3LD2W)
 
 - **[University of Michigan](https://www.umich.edu/)**
-  - [Influencing People](https://www.coursera.org/account/accomplishments/professional-cert/YVRG2FERWNB8) 
-  - [Leading People and Teams](https://www.coursera.org/account/accomplishments/professional-cert/JMVY822HJQ3T)
+  - [Influencing People](https://www.coursera.org/account/accomplishments/verify/YVRG2FERWNB8) 
+  - [Leading People and Teams](https://www.coursera.org/account/accomplishments/verify/JMVY822HJQ3T)
 
 - **[Vanderbilt University](https://www.vanderbilt.edu/)**
-  - [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/professional-cert/5NUWMPNYQ2RA)
+  - [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/5NUWMPNYQ2RA)
 
 - **[Meta](https://www.coursera.org/meta)**
-  - [Advanced React](https://www.coursera.org/account/accomplishments/professional-cert/YNAY9PSDEAYJ)
-  - [Programming with JavaScript](https://www.coursera.org/account/accomplishments/professional-cert/RS2FGZQMXQ2H)
+  - [Advanced React](https://www.coursera.org/account/accomplishments/verify/YNAY9PSDEAYJ)
+  - [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/RS2FGZQMXQ2H)
 
 - **[Google](https://www.coursera.org/google)**
-  - [Agile Project Management](https://www.coursera.org/account/accomplishments/professional-cert/NGCWEQ5CX2WU)
-  - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/PU744GEW43TV)
+  - [Agile Project Management](https://www.coursera.org/account/accomplishments/verify/NGCWEQ5CX2WU)
+  - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/PU744GEW43TV)
 
 
 ## ✍️ Blog
