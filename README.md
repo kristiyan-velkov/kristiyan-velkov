@@ -1,6 +1,6 @@
 # 👋 Kristiyan Velkov
 
-Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of experience in JavaScript and open-source development. I specialize in frameworks like React.js, Angular, Vue.js, and Next.js. My work focuses on improving developer productivity and creating efficient, scalable web applications.
+Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of experience in JavaScript (JS) and open-source development. I specialize in  React.js, Angular, Vue.js, and Next.js. Team management and leadership; I'm also a passionate blogger. ❤️
 
 ## 🚀 My Projects
 
@@ -19,6 +19,42 @@ Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of 
 
 - [more_well](https://www.npmjs.com/package/more_well)
   - 🛠️ An npm package designed to enhance JavaScript development by providing a set of well-structured utilities and helpers.
+
+## 📜 Certifications
+
+I have earned over 100+ certificates from various platforms, showcasing my commitment to continuous learning and professional development. Here are some notable certifications:
+
+- **[edX](https://www.edx.org/)**
+  - [Introduction to Web Accessibility](https://credentials.edx.org/credentials/47b731dabb4f464db2d01740eaf8357f) (Sep 2023)
+
+- **[Amazon Web Services (AWS)](https://www.aws.training/)**
+  - [AWS Cloud Solutions Architect](https://www.credly.com/badges/44TP3RUYAZGW) (Aug 2023)
+  - [Architecting Solutions on AWS](https://www.credly.com/badges/YK37U9LC9ZAJ) (Aug 2023)
+  - [Building Modern Node.js Applications on AWS](https://www.credly.com/badges/QYXXZFSPSVWY) (Aug 2023)
+
+- **[University of Maryland](https://www.umd.edu/)**
+  - [Cybersecurity for Everyone](https://www.credly.com/badges/FJ97HMPVJZQV) (Aug 2023)
+
+- **[Microsoft](https://www.microsoft.com/en-us/learning/default.aspx)**
+  - [Deploy a website to Azure with Azure App Service](https://www.credly.com/badges/DGECWWTN6DVU) (Aug 2023)
+
+- **[IBM](https://www.ibm.com/training/)**
+  - [Developing Cloud Apps with Node.js and React](https://www.credly.com/badges/KU2Y5ES3LD2W) (Aug 2023)
+
+- **[University of Michigan](https://www.umich.edu/)**
+  - [Influencing People](https://www.credly.com/badges/YVRG2FERWNB8) (Aug 2023)
+  - [Leading People and Teams](https://www.credly.com/badges/JMVY822HJQ3T) (Aug 2023)
+
+- **[Vanderbilt University](https://www.vanderbilt.edu/)**
+  - [Prompt Engineering for ChatGPT](https://www.credly.com/badges/5NUWMPNYQ2RA) (Aug 2023)
+
+- **[Meta](https://www.coursera.org/meta)**
+  - [Advanced React](https://www.credly.com/badges/YNAY9PSDEAYJ) (Jul 2023)
+  - [Programming with JavaScript](https://www.credly.com/badges/RS2FGZQMXQ2H) (Jul 2023)
+
+- **[Google](https://www.coursera.org/google)**
+  - [Agile Project Management](https://www.credly.com/badges/NGCWEQ5CX2WU) (Jul 2023)
+  - [Foundations of Cybersecurity](https://www.credly.com/badges/PU744GEW43TV) (Jul 2023)
 
 ## ✍️ Blog
 
@@ -50,7 +86,7 @@ I actively contribute to various open-source projects, focusing on enhancing Jav
 
 ## 📬 Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kristiyan-velkov/) or [Medium](https://medium.com/@kristiyan.velkov).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kristiyan-velkov-763130b3/) or [Medium](https://medium.com/@kristiyan.velkov).
 
 ## ☕ Support My Work
 
