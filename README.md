@@ -24,37 +24,39 @@ Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of 
 
 I have earned over 100+ certificates from various platforms, showcasing my commitment to continuous learning and professional development. Here are some notable certifications:
 
+
 - **[edX](https://www.edx.org/)**
-  - [Introduction to Web Accessibility](https://credentials.edx.org/credentials/47b731dabb4f464db2d01740eaf8357f) (Sep 2023)
+  - [Introduction to Web Accessibility](https://www.coursera.org/account/accomplishments/professional-cert/47b731dabb4f464db2d01740eaf8357f](https://courses.edx.org/certificates/47b731dabb4f464db2d01740eaf8357f)
 
 - **[Amazon Web Services (AWS)](https://www.aws.training/)**
-  - [AWS Cloud Solutions Architect](https://www.credly.com/badges/44TP3RUYAZGW) (Aug 2023)
-  - [Architecting Solutions on AWS](https://www.credly.com/badges/YK37U9LC9ZAJ) (Aug 2023)
-  - [Building Modern Node.js Applications on AWS](https://www.credly.com/badges/QYXXZFSPSVWY) (Aug 2023)
+  - [AWS Cloud Solutions Architect](https://www.coursera.org/account/accomplishments/professional-cert/44TP3RUYAZGW)
+  - [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/professional-cert/YK37U9LC9ZAJ)
+  - [Building Modern Node.js Applications on AWS](https://www.coursera.org/account/accomplishments/professional-cert/QYXXZFSPSVWY)
 
 - **[University of Maryland](https://www.umd.edu/)**
-  - [Cybersecurity for Everyone](https://www.credly.com/badges/FJ97HMPVJZQV) (Aug 2023)
+  - [Cybersecurity for Everyone](https://www.coursera.org/account/accomplishments/professional-cert/FJ97HMPVJZQV)
 
 - **[Microsoft](https://www.microsoft.com/en-us/learning/default.aspx)**
-  - [Deploy a website to Azure with Azure App Service](https://www.credly.com/badges/DGECWWTN6DVU) (Aug 2023)
+  - [Deploy a website to Azure with Azure App Service](https://www.coursera.org/account/accomplishments/professional-cert/DGECWWTN6DVU)
 
 - **[IBM](https://www.ibm.com/training/)**
-  - [Developing Cloud Apps with Node.js and React](https://www.credly.com/badges/KU2Y5ES3LD2W) (Aug 2023)
+  - [Developing Cloud Apps with Node.js and React](https://www.coursera.org/account/accomplishments/professional-cert/KU2Y5ES3LD2W)
 
 - **[University of Michigan](https://www.umich.edu/)**
-  - [Influencing People](https://www.credly.com/badges/YVRG2FERWNB8) (Aug 2023)
-  - [Leading People and Teams](https://www.credly.com/badges/JMVY822HJQ3T) (Aug 2023)
+  - [Influencing People](https://www.coursera.org/account/accomplishments/professional-cert/YVRG2FERWNB8) 
+  - [Leading People and Teams](https://www.coursera.org/account/accomplishments/professional-cert/JMVY822HJQ3T)
 
 - **[Vanderbilt University](https://www.vanderbilt.edu/)**
-  - [Prompt Engineering for ChatGPT](https://www.credly.com/badges/5NUWMPNYQ2RA) (Aug 2023)
+  - [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/professional-cert/5NUWMPNYQ2RA)
 
 - **[Meta](https://www.coursera.org/meta)**
-  - [Advanced React](https://www.credly.com/badges/YNAY9PSDEAYJ) (Jul 2023)
-  - [Programming with JavaScript](https://www.credly.com/badges/RS2FGZQMXQ2H) (Jul 2023)
+  - [Advanced React](https://www.coursera.org/account/accomplishments/professional-cert/YNAY9PSDEAYJ)
+  - [Programming with JavaScript](https://www.coursera.org/account/accomplishments/professional-cert/RS2FGZQMXQ2H)
 
 - **[Google](https://www.coursera.org/google)**
-  - [Agile Project Management](https://www.credly.com/badges/NGCWEQ5CX2WU) (Jul 2023)
-  - [Foundations of Cybersecurity](https://www.credly.com/badges/PU744GEW43TV) (Jul 2023)
+  - [Agile Project Management](https://www.coursera.org/account/accomplishments/professional-cert/NGCWEQ5CX2WU)
+  - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/PU744GEW43TV)
+
 
 ## ✍️ Blog
 
