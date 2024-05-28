@@ -26,7 +26,7 @@ I have earned over 100+ certificates from various platforms, showcasing my commi
 
 
 - **[edX](https://www.edx.org/)**
-  - [Introduction to Web Accessibility](https://www.coursera.org/account/accomplishments/professional-cert/47b731dabb4f464db2d01740eaf8357f](https://courses.edx.org/certificates/47b731dabb4f464db2d01740eaf8357f)
+  - [Introduction to Web Accessibility](https://courses.edx.org/certificates/47b731dabb4f464db2d01740eaf8357f)
 
 - **[Amazon Web Services (AWS)](https://www.aws.training/)**
   - [AWS Cloud Solutions Architect](https://www.coursera.org/account/accomplishments/professional-cert/44TP3RUYAZGW)
