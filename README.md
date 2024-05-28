@@ -44,7 +44,7 @@ I have earned over 100+ certificates from various platforms, showcasing my commi
 
 - **[University of Michigan](https://www.umich.edu/)**
   - [Influencing People](https://www.coursera.org/account/accomplishments/verify/YVRG2FERWNB8) 
-  - [Leading People and Teams](https://www.coursera.org/account/accomplishments/verify/JMVY822HJQ3T)
+  - [Leading People and Teams](https://www.coursera.org/account/accomplishments/professional-cert/JMVY822HJQ3T)
 
 - **[Vanderbilt University](https://www.vanderbilt.edu/)**
   - [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/5NUWMPNYQ2RA)
