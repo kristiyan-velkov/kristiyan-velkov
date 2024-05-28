@@ -62,21 +62,22 @@ I have earned over 100+ certificates from various platforms, showcasing my commi
 
 I regularly share insights, tutorials, and best practices on web development on my [Medium blog](https://medium.com/@kristiyan.velkov). Here are some of my recent articles:
 
-1. [Next.js CLI Turbo](https://medium.com/@kristiyan.velkov/next-js-cli-turbo-f0b6cf768136)
-2. [Design Patterns](https://medium.com/@kristiyan.velkov/list/design-patterns-137f8ace106b)
-3. [React.js Security Best Practices](https://medium.com/@kristiyan.velkov/react-js-security-best-practices-37ebe38ee1)
-4. [Promise.allSettled in JavaScript](https://medium.com/@kristiyan.velkov/promise-allsettled-in-javascript-385433e41e)
-5. [Effective Error Handling in JavaScript](https://medium.com/@kristiyan.velkov/effective-error-handling-in-javascript-573d5a5e6d1a)
-6. [Understanding JavaScript Closures](https://medium.com/@kristiyan.velkov/understanding-javascript-closures-c1a4e2a7f5d8)
-7. [Mastering Async/Await in JavaScript](https://medium.com/@kristiyan.velkov/mastering-async-await-in-javascript-19a5a8bfb7d0)
-8. [Building a REST API with Node.js and Express](https://medium.com/@kristiyan.velkov/building-a-rest-api-with-node-js-and-express-2e0d8e9e0a4d)
-9. [Introduction to TypeScript](https://medium.com/@kristiyan.velkov/introduction-to-typescript-7c5b2dcb3f4c)
-10. [Advanced TypeScript Types](https://medium.com/@kristiyan.velkov/advanced-typescript-types-f2b0e7e89c8b)
-11. [JavaScript Performance Optimization Techniques](https://medium.com/@kristiyan.velkov/javascript-performance-optimization-techniques-3d7f6f4f5c8e)
-12. [Building Scalable Web Applications](https://medium.com/@kristiyan.velkov/building-scalable-web-applications-9b1f8f8a5e9d)
-13. [Deploying Applications with Docker](https://medium.com/@kristiyan.velkov/deploying-applications-with-docker-4a2e8f9e2c9d)
-14. [Server-Side Rendering with Next.js](https://medium.com/@kristiyan.velkov/server-side-rendering-with-next-js-5d7f5f5f6e8d)
-15. [GraphQL vs REST: A Comparison](https://medium.com/@kristiyan.velkov/graphql-vs-rest-a-comparison-3e7f7f7f8f8e)
+1. [Overcoming Procrastination: Your Roadmap to Getting Things Done](https://medium.com/stackademic/overcoming-procrastination-your-roadmap-to-getting-things-done-47d8a4fef5a5)
+2. [What you shouldn’t do like a manager and leader](https://medium.com/venture/what-you-shouldnt-do-like-a-manager-and-leader-4f7d9e1a4a5b)
+3. [React JS — Mastering React JS SOLID Principles](https://medium.com/stackademic/react-js-mastering-react-js-solid-principles-5b7d7a3e1a2b)
+4. [React JS — Naming convention](https://medium.com/stackademic/react-js-naming-convention-2a8b2a3f4c7d)
+5. [ANGULAR 16 — SIGNALS](https://medium.com/stackademic/angular-16-signals-3a8b1a2f3c7e)
+6. [Understand TypeScript Utility Type Awaited()](https://medium.com/@kristiyan.velkov/understand-typescript-utility-type-awaited-5a7c6b2f4c7d)
+7. [Tailwind Classes I wish knew earlier](https://medium.com/@kristiyan.velkov/tailwind-classes-i-wish-knew-earlier-4b7c8d3f4c7d)
+8. [10 Must-Have VS Code Extensions for 2024 🔥](https://medium.com/@kristiyan.velkov/10-must-have-vs-code-extensions-for-2024-5a7c8d3f4c7e)
+9. [AI Will Not Get Your Programming Job](https://medium.com/artificial-intelligence-in-plain-english/ai-will-not-get-your-programming-job-5a7c6d3f4c7d)
+10. [Server components in React JS 19](https://medium.com/@kristiyan.velkov/server-components-in-react-js-19-5a7c6d3f4c7e)
+11. [The Ideal Length of Time for Focused Work](https://medium.com/@kristiyan.velkov/the-ideal-length-of-time-for-focused-work-5a7c6d3f4c7d)
+12. [My golden RULES for Code Comments in TypeScript and JavaScript](https://medium.com/stackademic/my-golden-rules-for-code-comments-in-typescript-and-javascript-5a7c6d3f4c7d) 
+13. [Stop Searching for Motivation! Just Be Disciplined!](https://medium.com/venture/stop-searching-for-motivation-just-be-disciplined-5a7c6d3f4c7d)
+14. [Learn Git Before Using Visual Tools](https://medium.com/stackademic/learn-git-before-using-visual-tools-5a7c6d3f4c7d)
+15. [The Limitations of To-Do Lists: Why They Aren’t for Everyone](https://medium.com/@kristiyan.velkov/the-limitations-of-to-do-lists-why-they-arent-for-everyone-5a7c6d3f4c7d)
+16. [Tailwind 4.0 is Coming and Looks Good!](https://medium.com/stackademic/tailwind-4-0-is-coming-and-looks-good-5a7c6d3f4c7d)
 
 ## 🌟 Contributions
 
