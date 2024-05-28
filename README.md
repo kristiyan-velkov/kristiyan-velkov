@@ -62,22 +62,24 @@ I have earned over 100+ certificates from various platforms, showcasing my commi
 
 I regularly share insights, tutorials, and best practices on web development on my [Medium blog](https://medium.com/@kristiyan.velkov). Here are some of my recent articles:
 
-1. [Overcoming Procrastination: Your Roadmap to Getting Things Done](https://medium.com/stackademic/overcoming-procrastination-your-roadmap-to-getting-things-done-47d8a4fef5a5)
-2. [What you shouldn’t do like a manager and leader](https://medium.com/venture/what-you-shouldnt-do-like-a-manager-and-leader-4f7d9e1a4a5b)
-3. [React JS — Mastering React JS SOLID Principles](https://medium.com/stackademic/react-js-mastering-react-js-solid-principles-5b7d7a3e1a2b)
-4. [React JS — Naming convention](https://medium.com/stackademic/react-js-naming-convention-2a8b2a3f4c7d)
-5. [ANGULAR 16 — SIGNALS](https://medium.com/stackademic/angular-16-signals-3a8b1a2f3c7e)
-6. [Understand TypeScript Utility Type Awaited()](https://medium.com/@kristiyan.velkov/understand-typescript-utility-type-awaited-5a7c6b2f4c7d)
-7. [Tailwind Classes I wish knew earlier](https://medium.com/@kristiyan.velkov/tailwind-classes-i-wish-knew-earlier-4b7c8d3f4c7d)
-8. [10 Must-Have VS Code Extensions for 2024 🔥](https://medium.com/@kristiyan.velkov/10-must-have-vs-code-extensions-for-2024-5a7c8d3f4c7e)
-9. [AI Will Not Get Your Programming Job](https://medium.com/artificial-intelligence-in-plain-english/ai-will-not-get-your-programming-job-5a7c6d3f4c7d)
-10. [Server components in React JS 19](https://medium.com/@kristiyan.velkov/server-components-in-react-js-19-5a7c6d3f4c7e)
-11. [The Ideal Length of Time for Focused Work](https://medium.com/@kristiyan.velkov/the-ideal-length-of-time-for-focused-work-5a7c6d3f4c7d)
-12. [My golden RULES for Code Comments in TypeScript and JavaScript](https://medium.com/stackademic/my-golden-rules-for-code-comments-in-typescript-and-javascript-5a7c6d3f4c7d) 
-13. [Stop Searching for Motivation! Just Be Disciplined!](https://medium.com/venture/stop-searching-for-motivation-just-be-disciplined-5a7c6d3f4c7d)
-14. [Learn Git Before Using Visual Tools](https://medium.com/stackademic/learn-git-before-using-visual-tools-5a7c6d3f4c7d)
-15. [The Limitations of To-Do Lists: Why They Aren’t for Everyone](https://medium.com/@kristiyan.velkov/the-limitations-of-to-do-lists-why-they-arent-for-everyone-5a7c6d3f4c7d)
-16. [Tailwind 4.0 is Coming and Looks Good!](https://medium.com/stackademic/tailwind-4-0-is-coming-and-looks-good-5a7c6d3f4c7d)
+1. [Overcoming Procrastination: Your Roadmap to Getting Things Done](https://blog.stackademic.com/overcoming-procrastination-your-roadmap-to-getting-things-done-533b4682b0ea))
+2. [What you shouldn’t do like a manager and leader](https://medium.com/venturehq/what-you-shouldnt-do-like-a-manager-and-leader-3b2aede3c9d8)
+3. [React JS — Mastering React JS SOLID Principles](https://blog.stackademic.com/react-js-mastering-react-js-solid-principles-dfb48d03e565)
+4. [React JS — Naming convention](https://blog.stackademic.com/react-js-naming-convention-fe83acfbafb3)
+5. [ANGULAR 16 — SIGNALS](https://blog.stackademic.com/angular-16-signals-99abd8c5cadd)
+6. [Understand TypeScript Utility Type Awaited()](https://medium.com/@kristiyan.velkov/understand-typescript-utility-type-awaited-59201bc469f4)
+7. [Tailwind Classes I wish knew earlier](https://medium.com/@kristiyan.velkov/tailwind-classes-i-wish-knew-earlier-31e2c86effe8)
+8. [10 Must-Have VS Code Extensions for 2024 🔥](https://medium.com/@kristiyan.velkov/10-must-have-vs-code-extensions-for-2024-99a47e1ac9c1)
+9. [AI Will Not Get Your Programming Job](https://ai.plainenglish.io/ai-will-not-get-your-programming-job-a0fa43e19b0d)
+10. [Server components in React JS 19](https://medium.com/@kristiyan.velkov/server-components-in-react-js-19-7a78e296a49a)
+11. [The Ideal Length of Time for Focused Work](https://medium.com/@kristiyan.velkov/the-ideal-length-of-time-for-focused-work-44049abb01ed)
+12. [My golden RULES for Code Comments in TypeScript and JavaScript](https://blog.stackademic.com/my-golden-rules-for-code-comments-in-typescript-and-javascript-84e95f1eb1d7)) 
+13. [Stop Searching for Motivation! Just Be Disciplined!](https://blog.venturemagazine.net/stop-searching-for-motivation-just-be-disciplined-2b3720694627)
+14. [Learn Git Before Using Visual Tools](https://blog.stackademic.com/learn-git-before-using-visual-tools-9191dcebd1c4)
+15. [Tailwind 4.0 is Coming and Looks Good!](https://blog.stackademic.com/tailwind-4-0-is-coming-and-looks-good-e4bb8d976f3c)
+16. [Useful HTML5 Attributes You Should Know About](https://blog.stackademic.com/useful-html5-attributes-you-should-know-about-e6e3ef86895a)
+
+**Find all my articles in** [Medium blog](https://medium.com/@kristiyan.velkov)
 
 ## 🌟 Contributions
 
