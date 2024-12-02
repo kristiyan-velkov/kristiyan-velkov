@@ -2,6 +2,10 @@
 
 Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of experience in JavaScript (JS) and open-source development. I specialize in  React.js, Angular, Vue.js, and Next.js. Team management and leadership; I'm also a passionate blogger. ❤️
 
+## My Books
+
+- [Mastering TypeScript Core Utility Types on Leanpub](https://leanpub.com/masteringtypescriptcoreutilitytypes)
+
 ## 🚀 My Projects
 
 ### 🔌 VS Code Extensions
