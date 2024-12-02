@@ -4,9 +4,11 @@ Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of 
 
 ## My Books
 
-![Mastering TypeScript Core Utility Types](https://d2sofvawe08yqg.cloudfront.net/masteringtypescriptcoreutilitytypes/s_hero2x?1733166849)
+<a href="https://leanpub.com/masteringtypescriptcoreutilitytypes">
+  <img src="https://d2sofvawe08yqg.cloudfront.net/masteringtypescriptcoreutilitytypes/s_hero2x?1733166849" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
+</a>
 
-- [Mastering TypeScript Core Utility Types](https://leanpub.com/masteringtypescriptcoreutilitytypes)
+
 
 ## 🚀 My Projects
 
