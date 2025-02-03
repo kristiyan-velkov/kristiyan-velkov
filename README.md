@@ -25,7 +25,7 @@ Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of 
 
 ### 📦 NPM Packages
 
-- [more_well]([https://www.npmjs.com/package/more_well](https://www.npmjs.com/~more_well)
+- [more_well](https://www.npmjs.com/~more_well)
   - 🛠️ An npm package designed to enhance JavaScript development by providing a set of well-structured utilities and helpers.
 
 ## 📜 Certifications
