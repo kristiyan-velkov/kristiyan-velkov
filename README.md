@@ -1,17 +1,31 @@
-# 👋 Kristiyan Velkov
-**Front-end Advocate | Meta Certified React.js Developer | Tech Lead | Speaker | Author | JavaScript | TypeScript | React.js | Next.js | Angular | DevOps | People Management | 100+ IT Certifications**
+# 👋 Kristiyan Velkov  
+**Front-end Advocate | Meta Certified React.js Developer | Tech Lead | Speaker | Author JavaScript | TypeScript | React.js | Next.js | Angular | DevOps | People Management**  
 
-- 🚀 Passionate about building scalable,secure, high-performance applications and mentoring developers.
-- 📖 Author of books on TypeScript and React.js.
-- 🎤 Speaker and knowledge sharer—always open to tech discussions!
+🚀 Passionate about building **scalable, secure, high-performance applications** and mentoring developers.  
+📖 **Author** of books on **TypeScript** and **React.js**.  
+🎤 **Speaker & Knowledge Sharer**—always open to tech discussions!  
+
+### 📊 Community Reach  
+- **30,000+ followers** on LinkedIn  
+- **6,000+ followers** on Medium  
+- **250 000 people reached**  
+
+**Let’s build something amazing together! ❤️**
+
+- [LinkedIn](https://www.linkedin.com/in/kristiyan-velkov-763130b3/)
+- [Medium blog](https://medium.com/@kristiyanvelkov)
+- [Front-end World Newsletter](https://kristiyanvelkov.substack.com/subscribe)
+
 
 ---
 
 ## My Books
+**The Ultimate Guide from Beginner to Pro: 300+ Examples, Practical Exercises, and Best Practices for Mastering Advanced TypeScript**
 
 <a href="https://leanpub.com/masteringtypescriptcoreutilitytypes">
-  <img src="https://d2sofvawe08yqg.cloudfront.net/masteringtypescriptcoreutilitytypes/s_hero2x?1733166849" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
+  <img src="https://miro.medium.com/v2/resize:fit:820/1*lZxMM7W62AtcPd5NxJ7r-A.png" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
 </a>
+
 
 --- 
 
@@ -80,8 +94,21 @@ I have earned over 100+ certificates from various platforms, showcasing my commi
  
 ---
 
-## 🚀 Stay Ahead in Front-end Development!
-Subscribe to the [Front-end World](https://kristiyanvelkov.substack.com/subscribe) and get the latest front-end trends, best practices, and expert insights delivered straight to your inbox each week! 📩🔥
+# 🌍 Front-end World Newsletter  
+
+Stay ahead in the front-end ecosystem with the **latest insights, trends, and best practices** in:  
+
+✅ **React.js, Next.js, Angular TypeScript, JavaScript**  
+✅ **Performance Optimization & Security, Web Accessibility**  
+✅ **DevOps & Scalable Architectures**  
+✅ **Career Growth & Interview Prep**  
+
+📬 **Join 2,000+ monthly readers** and level up your front-end skills!  
+
+👉 Subscribe now and never miss an update!  
+
+[**Subscribe Here**](https://kristiyanvelkov.substack.com/subscribe)
+
 
 ---
 
