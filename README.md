@@ -1,6 +1,5 @@
 # 👋 Kristiyan Velkov
-
-Hi, I'm Kristiyan Velkov, a passionate software developer, author, and DevOps enthusiast with over 10 years of experience in JavaScript and open-source development. I specialize in JavaScript, TypeScript, React.js, Angular, and Next.js, focusing on building scalable, high-performance applications. As a technical lead, I thrive on mentoring developers, optimizing workflows, and integrating DevOps best practices to enhance development and deployment efficiency. Beyond coding, I’m an active blogger and author, writing books on TypeScript and React.js. I love sharing knowledge—just ask! 🚀
+Front-end Advocate | Meta Certified React JS Developer | Tech lead | Speaker | Book Author| React.js | Next.js | Angular | TS | DevOps | People management
 
 ## My Books
 
