@@ -1,5 +1,5 @@
 # 👋 Kristiyan Velkov  
-**Front-end Advocate | Meta Certified React.js Developer | Tech Lead | Speaker | Author JavaScript | TypeScript | React.js | Next.js | Angular | DevOps | People Management**  
+**Front-end Advocate | Meta Certified React.js Developer | Tech Lead | Speaker | Author | JavaScript | TypeScript | React.js | Next.js | Angular | DevOps | People Management**  
 
 🚀 Passionate about building **scalable, secure, high-performance applications** and mentoring developers.  
 📖 **Author** of books on **TypeScript** and **React.js**.  
