@@ -12,6 +12,11 @@ Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of 
 
 ## 🚀 My Projects
 
+### 🕵️‍♂️ Docker Files for Production Next.js
+
+- [nextjs-prod-dockerfile](https://github.com/kristiyan-velkov/nextjs-prod-dockerfile)
+  - 🛠️ This repository contains Production Ready Dockerfiles for running a Next.js 15 application. 
+
 ### 🔌 VS Code Extensions
 
 - [Next.js CLI](https://marketplace.visualstudio.com/items?itemName=KristiyanVelkov.nextjs-cli)
@@ -25,8 +30,11 @@ Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of 
 
 ### 📦 NPM Packages
 
-- [more_well]([https://www.npmjs.com/package/more_well](https://www.npmjs.com/~more_well)
+- [more_well](https://www.npmjs.com/package/more_well](https://www.npmjs.com/~more_well)
   - 🛠️ An npm package designed to enhance JavaScript development by providing a set of well-structured utilities and helpers.
+
+
+
 
 ## 📜 Certifications
 
@@ -64,6 +72,10 @@ I have earned over 100+ certificates from various platforms, showcasing my commi
 - **[Google](https://www.coursera.org/google)**
   - [Agile Project Management](https://www.coursera.org/account/accomplishments/verify/NGCWEQ5CX2WU)
   - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/PU744GEW43TV)
+ 
+
+## 🚀 Stay Ahead in Front-end Development!
+Subscribe to the [Front-end World](https://kristiyanvelkov.substack.com/subscribe) and get the latest front-end trends, best practices, and expert insights delivered straight to your inbox each week! 📩🔥
 
 
 ## ✍️ Blog
@@ -86,8 +98,10 @@ I regularly share insights, tutorials, and best practices on web development on 
 14. [Learn Git Before Using Visual Tools](https://blog.stackademic.com/learn-git-before-using-visual-tools-9191dcebd1c4)
 15. [Tailwind 4.0 is Coming and Looks Good!](https://blog.stackademic.com/tailwind-4-0-is-coming-and-looks-good-e4bb8d976f3c)
 16. [Useful HTML5 Attributes You Should Know About](https://blog.stackademic.com/useful-html5-attributes-you-should-know-about-e6e3ef86895a)
+17. [Docker Scout in Action](https://medium.com/gitconnected/docker-scout-in-action-63e7c812532a)
 
 **Find all my articles in** [Medium blog](https://medium.com/@kristiyanvelkov)
+
 
 ## 🌟 Contributions
 
