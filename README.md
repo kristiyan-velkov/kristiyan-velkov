@@ -8,9 +8,9 @@ Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of 
   <img src="https://d2sofvawe08yqg.cloudfront.net/masteringtypescriptcoreutilitytypes/s_hero2x?1733166849" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
 </a>
 
+--- 
 
-
-## 🚀 My Projects
+## 🚀 Contributions
 
 ### 🕵️‍♂️ Docker Files for Production Next.js
 
@@ -34,7 +34,7 @@ Hi, I'm Kristiyan Velkov, a passionate software developer with over 10 years of 
   - 🛠️ An npm package designed to enhance JavaScript development by providing a set of well-structured utilities and helpers.
 
 
-
+---
 
 ## 📜 Certifications
 
@@ -73,10 +73,12 @@ I have earned over 100+ certificates from various platforms, showcasing my commi
   - [Agile Project Management](https://www.coursera.org/account/accomplishments/verify/NGCWEQ5CX2WU)
   - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/PU744GEW43TV)
  
+---
 
 ## 🚀 Stay Ahead in Front-end Development!
 Subscribe to the [Front-end World](https://kristiyanvelkov.substack.com/subscribe) and get the latest front-end trends, best practices, and expert insights delivered straight to your inbox each week! 📩🔥
 
+---
 
 ## ✍️ Blog
 
@@ -102,18 +104,14 @@ I regularly share insights, tutorials, and best practices on web development on 
 
 **Find all my articles in** [Medium blog](https://medium.com/@kristiyanvelkov)
 
+---
 
-## 🌟 Contributions
-
-I actively contribute to various open-source projects, focusing on enhancing JavaScript tools and libraries. Some notable projects include:
-
-- [JS Exercises for Beginners](https://github.com/kristiyan-velkov/js-exercises-beginners)
-- [Dependency Exists](https://github.com/kristiyan-velkov/dependency-exists)
-- [JS Module Exists](https://github.com/kristiyan-velkov/js-module-exists)
 
 ## 📬 Contact
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/kristiyan-velkov-763130b3/) or [Medium](https://medium.com/@kristiyanvelkov).
+
+---
 
 ## ☕ Support My Work
 
