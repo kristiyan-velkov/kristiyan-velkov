@@ -31,11 +31,12 @@
 
 ## 🚀 Contributions
 
-### 🕵️‍♂️ Docker Files for Production Next.js
+### 🕵️‍♂️ Production-ready Dockerfiles for React.js, Angular, Vue.js, Next.js, Remix.js,Analog.js, Nuxt.js applications.
 
-- [nextjs-prod-dockerfile](https://github.com/kristiyan-velkov/nextjs-prod-dockerfile)
-  - 🛠️ This repository contains Production Ready Dockerfiles for running a Next.js 15 application. 
-
+- [Frontend Prod Dockerfiles](https://github.com/kristiyan-velkov/frontend-prod-dockerfiles)
+  🛠️ These Dockerfiles are optimized for performance, security, and minimal image size to ensure efficient and scalable deployments.
+ 
+  
 ### 🔌 VS Code Extensions
 
 - [Next.js CLI](https://marketplace.visualstudio.com/items?itemName=KristiyanVelkov.nextjs-cli)
