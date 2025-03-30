@@ -6,9 +6,9 @@
 🎤 **Speaker & Knowledge Sharer**—always open to tech discussions!  
 
 ### 📊 Community Reach  
-- **30,000+ followers** on LinkedIn  
-- **6,000+ followers** on Medium  
-- **250 000 people reached**  
+- **30,000+ followers** on [LinkedIn  ](https://www.linkedin.com/in/kristiyan-velkov-763130b3/)
+- **6,500+ followers** on [Medium blog](https://medium.com/@kristiyanvelkov)
+- **Over 250,000 people reached annually across platforms**  
 
 **Let’s build something amazing together! ❤️**
 
@@ -16,16 +16,28 @@
 - [Medium blog](https://medium.com/@kristiyanvelkov)
 - [Front-end World Newsletter](https://kristiyanvelkov.substack.com/subscribe)
 
-
 ---
 
 ## My Books
-**The Ultimate Guide from Beginner to Pro: 300+ Examples, Practical Exercises, and Best Practices for Mastering Advanced TypeScript**
 
-<a href="https://leanpub.com/masteringtypescriptcoreutilitytypes">
-  <img src="https://d2sofvawe08yqg.cloudfront.net/masteringtypescriptcoreutilitytypes/s_hero2x?1743183044" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
-</a>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Mastering React.js Interviews: From Zero to Hero</strong><br/><br/>
+      <a href="https://leanpub.com/masteringreactjsinterviews">
+        <img src="https://d2sofvawe08yqg.cloudfront.net/masteringreactjsinterviews/s_hero2x?1743183342" alt="Mastering React.js Interviews" title="Go to Book" width="200">
+      </a><br/><br/>
+      300+ real-world React.js interview questions with TypeScript examples and best practices. Covers React 19, Redux Toolkit 2.6, Zustand 5.0, Tailwind CSS 4.0, and more.
+    </td>
+    <td align="center" width="50%">
+      <strong>Mastering TypeScript Core Utility Types</strong><br/><br/>
+      <a href="https://leanpub.com/masteringtypescriptcoreutilitytypes">
+        <img src="https://d2sofvawe08yqg.cloudfront.net/masteringtypescriptcoreutilitytypes/s_hero2x?1743183044" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
+      </a><br/><br/>
+      The ultimate guide with 300+ examples and exercises for mastering advanced TypeScript utility types like Partial, Required, Omit, Pick, and more.
+    </td>
+  </tr>
+</table>
 
 --- 
 
