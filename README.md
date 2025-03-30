@@ -116,7 +116,7 @@ Stay ahead in the front-end ecosystem with the **latest insights, trends, and be
 ✅ **DevOps & Scalable Architectures**  
 ✅ **Career Growth & Interview Prep**  
 
-📬 **Join 2,000+ monthly readers** and level up your front-end skills!  
+📬 **Join 3,000+ monthly readers** and level up your front-end skills!  
 
 👉 Subscribe now and never miss an update!  
 
