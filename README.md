@@ -23,7 +23,7 @@
 **The Ultimate Guide from Beginner to Pro: 300+ Examples, Practical Exercises, and Best Practices for Mastering Advanced TypeScript**
 
 <a href="https://leanpub.com/masteringtypescriptcoreutilitytypes">
-  <img src="https://miro.medium.com/v2/resize:fit:820/1*lZxMM7W62AtcPd5NxJ7r-A.png" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
+  <img src="https://d2sofvawe08yqg.cloudfront.net/masteringtypescriptcoreutilitytypes/s_hero2x?1743183044" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
 </a>
 
 
