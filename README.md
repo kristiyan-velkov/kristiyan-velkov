@@ -7,7 +7,7 @@
 
 ### 📊 Community Reach  
 - **30,000+ followers** on [LinkedIn  ](https://www.linkedin.com/in/kristiyan-velkov-763130b3/)
-- ** 7000+ followers** on [Medium blog](https://medium.com/@kristiyanvelkov)
+- **7000+ followers** on [Medium blog](https://medium.com/@kristiyanvelkov)
 - **Over 250,000 people reached annually across platforms**  
 
 **Let’s build something amazing together! ❤️**
