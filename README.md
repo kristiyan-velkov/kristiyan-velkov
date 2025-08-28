@@ -7,7 +7,7 @@
 
 ### 📊 Community Reach  
 - **30,000+ followers** on [LinkedIn  ](https://www.linkedin.com/in/kristiyan-velkov-763130b3/)
-- **6,500+ followers** on [Medium blog](https://medium.com/@kristiyanvelkov)
+- ** 7000+ followers** on [Medium blog](https://medium.com/@kristiyanvelkov)
 - **Over 250,000 people reached annually across platforms**  
 
 **Let’s build something amazing together! ❤️**
@@ -116,7 +116,7 @@ Stay ahead in the front-end ecosystem with the **latest insights, trends, and be
 ✅ **DevOps & Scalable Architectures**  
 ✅ **Career Growth & Interview Prep**  
 
-📬 **Join 3,000+ monthly readers** and level up your front-end skills!  
+📬 **Join 10,000+ monthly readers** and level up your front-end skills!  
 
 👉 Subscribe now and never miss an update!  
 
