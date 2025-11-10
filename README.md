@@ -1,4 +1,4 @@
-# 👋 Kristiyan Velkov  
+<img width="320" height="408" alt="image" src="https://github.com/user-attachments/assets/9583c08b-52ea-4ed0-9dc4-3e2e6070ffb4" /># 👋 Kristiyan Velkov  
 **Front-end Advocate | Meta Certified React.js Developer | Tech Lead | Speaker | Author | JavaScript | TypeScript | React.js | Next.js | Angular |Docker Captain | DevOps | People Management**  
 
 🚀 Passionate about building **scalable, secure, high-performance applications** and mentoring developers.  
@@ -23,23 +23,20 @@
 <table>
   <tr>
     <td align="center" width="30%">
-      <strong>Mastering React.js Interviews: for middle/senior developers</strong><br/><br/>
       <a href="https://kristiyanvelkov.com/b/react-js-interviews"> 
         <img src="https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1j7k6samb1bpm1pifno11vsc8e415.png" alt="Mastering React.js Interviews" title="Go to Book" width="200">
       </a><br/><br/>
      This book is your complete, battle-tested guide to excelling in React.js interviews and confidently stepping into your next role.
     </td>
     <td align="center" width="30%">
-      <strong>Mastering React.js Interviews: From Zero to Hero</strong><br/><br/>
       <a href="https://leanpub.com/masteringreactjsinterviews">
-        <img src="https://d2sofvawe08yqg.cloudfront.net/masteringreactjsinterviews/s_hero2x?1743183342" alt="Mastering React.js Interviews" title="Go to Book" width="200">
+        <img src="https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1j7k6suv6ts43011in1nmb1fdf15.jpg" alt="Mastering React.js Interviews" title="Go to Book" width="200">
       </a><br/><br/>
       300+ real-world React.js interview questions with TypeScript examples and best practices. Covers React 19, Redux Toolkit 2.6, Zustand 5.0, Tailwind CSS 4.0, and more.
     </td>
     <td align="center" width="30%">
-      <strong>Mastering TypeScript Core Utility Types</strong><br/><br/>
       <a href="https://leanpub.com/masteringtypescriptcoreutilitytypes">
-        <img src="https://d2sofvawe08yqg.cloudfront.net/masteringtypescriptcoreutilitytypes/s_hero2x?1743183044" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
+        <img src="https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1iol4gsj119071chj1r5m1aht1m6810.jpg" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
       </a><br/><br/>
       The ultimate guide with 300+ examples and exercises for mastering advanced TypeScript utility types like Partial, Required, Omit, Pick, and more.
     </td>
