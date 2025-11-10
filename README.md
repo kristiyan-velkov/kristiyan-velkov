@@ -25,7 +25,7 @@
     <td align="center" width="30%">
       <strong>Mastering React.js Interviews: for middle/senior developers</strong><br/><br/>
       <a href="https://kristiyanvelkov.com/b/react-js-interviews"> 
-        <img src="https://d2sofvawe08yqg.cloudfront.net/masteringreactjsinterviews/s_hero2x?1743183342](https://d2sofvawe08yqg.cloudfront.net/mastering-reactjs-interviews/s_hero?1760540798" alt="Mastering React.js Interviews" title="Go to Book" width="200">
+        <img src="https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1j7k6samb1bpm1pifno11vsc8e415.png" alt="Mastering React.js Interviews" title="Go to Book" width="200">
       </a><br/><br/>
      This book is your complete, battle-tested guide to excelling in React.js interviews and confidently stepping into your next role.
     </td>
