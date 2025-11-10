@@ -22,14 +22,21 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
+      <strong>Mastering React.js Interviews: for middle/senior developers</strong><br/><br/>
+      <a href="https://kristiyanvelkov.com/b/react-js-interviews"> 
+        <img src="https://d2sofvawe08yqg.cloudfront.net/masteringreactjsinterviews/s_hero2x?1743183342](https://d2sofvawe08yqg.cloudfront.net/mastering-reactjs-interviews/s_hero?1760540798" alt="Mastering React.js Interviews" title="Go to Book" width="200">
+      </a><br/><br/>
+     This book is your complete, battle-tested guide to excelling in React.js interviews and confidently stepping into your next role.
+    </td>
+    <td align="center" width="30%">
       <strong>Mastering React.js Interviews: From Zero to Hero</strong><br/><br/>
       <a href="https://leanpub.com/masteringreactjsinterviews">
         <img src="https://d2sofvawe08yqg.cloudfront.net/masteringreactjsinterviews/s_hero2x?1743183342" alt="Mastering React.js Interviews" title="Go to Book" width="200">
       </a><br/><br/>
       300+ real-world React.js interview questions with TypeScript examples and best practices. Covers React 19, Redux Toolkit 2.6, Zustand 5.0, Tailwind CSS 4.0, and more.
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="30%">
       <strong>Mastering TypeScript Core Utility Types</strong><br/><br/>
       <a href="https://leanpub.com/masteringtypescriptcoreutilitytypes">
         <img src="https://d2sofvawe08yqg.cloudfront.net/masteringtypescriptcoreutilitytypes/s_hero2x?1743183044" alt="Mastering TypeScript Core Utility Types" title="Go to Book" width="200">
