@@ -1,4 +1,4 @@
-<img width="320" height="408" alt="image" src="https://github.com/user-attachments/assets/9583c08b-52ea-4ed0-9dc4-3e2e6070ffb4" /># 👋 Kristiyan Velkov  
+# 👋 Kristiyan Velkov  
 **Front-end Advocate | Meta Certified React.js Developer | Tech Lead | Speaker | Author | JavaScript | TypeScript | React.js | Next.js | Angular |Docker Captain | DevOps | People Management**  
 
 🚀 Passionate about building **scalable, secure, high-performance applications** and mentoring developers.  
