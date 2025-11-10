@@ -76,36 +76,18 @@
 
 I have earned over 100+ certificates from various platforms, showcasing my commitment to continuous learning and professional development. Here are some notable certifications:
 
-
-- **[edX](https://www.edx.org/)**
   - [Introduction to Web Accessibility](https://courses.edx.org/certificates/47b731dabb4f464db2d01740eaf8357f)
-
-- **[Amazon Web Services (AWS)](https://www.aws.training/)**
   - [AWS Cloud Solutions Architect](https://www.coursera.org/account/accomplishments/professional-cert/44TP3RUYAZGW)
   - [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/verify/YK37U9LC9ZAJ)
   - [Building Modern Node.js Applications on AWS](https://www.coursera.org/account/accomplishments/verify/QYXXZFSPSVWY)
-
-- **[University of Maryland](https://www.umd.edu/)**
   - [Cybersecurity for Everyone](https://www.coursera.org/account/accomplishments/verify/FJ97HMPVJZQV)
-
-- **[Microsoft](https://www.microsoft.com/en-us/learning/default.aspx)**
   - [Deploy a website to Azure with Azure App Service](https://www.coursera.org/account/accomplishments/verify/DGECWWTN6DVU)
-
-- **[IBM](https://www.ibm.com/training/)**
   - [Developing Cloud Apps with Node.js and React](https://www.coursera.org/account/accomplishments/verify/KU2Y5ES3LD2W)
-
-- **[University of Michigan](https://www.umich.edu/)**
   - [Influencing People](https://www.coursera.org/account/accomplishments/verify/YVRG2FERWNB8) 
   - [Leading People and Teams](https://www.coursera.org/account/accomplishments/professional-cert/JMVY822HJQ3T)
-
-- **[Vanderbilt University](https://www.vanderbilt.edu/)**
   - [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/5NUWMPNYQ2RA)
-
-- **[Meta](https://www.coursera.org/meta)**
   - [Advanced React](https://www.coursera.org/account/accomplishments/verify/YNAY9PSDEAYJ)
   - [Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/RS2FGZQMXQ2H)
-
-- **[Google](https://www.coursera.org/google)**
   - [Agile Project Management](https://www.coursera.org/account/accomplishments/verify/NGCWEQ5CX2WU)
   - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/PU744GEW43TV)
  
