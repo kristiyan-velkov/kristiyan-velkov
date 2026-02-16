@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td align="center" width="30%">
-      <a href="https://kristiyanvelkov.com/b/docker-for-react-js-developers">
+      <a href="https://www.dockerfrontend.com">
         <img src="https://www.dockerfrontend.com/_next/image?url=%2Fdocker-for-reactjs-developers-logo.png&w=1080&q=75" title="Go to Book" width="200">
       </a><br/><br/>
       A practical, production-ready guide to Dockerizing React.js applications. Learn how to build optimized images, manage environments, and deploy with confidence using proven real-world workflows.
