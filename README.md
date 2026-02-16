@@ -13,6 +13,7 @@
 **Let’s build something amazing together! ❤️**
 
 - [LinkedIn](https://www.linkedin.com/in/kristiyan-velkov-763130b3/)
+- [X](https://x.com/krisvelkov)
 - [Medium blog](https://medium.com/@kristiyanvelkov)
 - [Front-end World Newsletter](https://kristiyanvelkov.substack.com/subscribe)
 
