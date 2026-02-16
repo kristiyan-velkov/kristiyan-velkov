@@ -23,10 +23,10 @@
 <table>
   <tr>
     <td align="center" width="30%">
-      <a href="https://www.dockerfrontend.com">
+      <a href="https://www.dockerfrontend.com" target="_blank">
         <img src="https://www.dockerfrontend.com/_next/image?url=%2Fdocker-for-reactjs-developers-logo.png&w=1080&q=75" title="Go to Book" width="200">
       </a><br/><br/>
-      A practical, production-ready guide to Dockerizing React.js applications. Learn how to build optimized images, manage environments, and deploy with confidence using proven real-world workflows.
+      A practical, hands-on guide built for the realities front-end engineers face today. Written by a Docker Captain and the author behind official Docker sample guides for React.js, Node.js, Angular, Vue.js, and more.
     </td>
   </tr>
 </table>
