@@ -1,9 +1,10 @@
 # 👋 Kristiyan Velkov  
-**Front-end Advocate | Meta Certified React.js Developer | Tech Lead | Speaker | Author | JavaScript | TypeScript | React.js | Next.js | Angular |Docker Captain | DevOps | People Management**  
+**Front-end Advocate | Meta Certified React.js Developer | Tech Lead | Speaker | Author | JavaScript | TypeScript | React.js | Next.js | Angular | Docker Captain | DevOps | People Management**  
 
-🚀 Passionate about building **scalable, secure, high-performance applications** and mentoring developers.  
-📖 **Author** of books on **TypeScript** and **React.js**.  
-🎤 **Speaker & Knowledge Sharer**—always open to tech discussions!  
+🐳 **Docker Captain** - person behind [React.js](https://docs.docker.com/guides/reactjs/), [Angular](https://docs.docker.com/guides/angular), [Vue.js](https://docs.docker.com/guides/vuejs/),[ Node.js](https://docs.docker.com/guides/nodejs/) official Docker sample guides.
+👨‍💻 **Vercel (Next.js) Contributer** - added examples how to dockernize Next.js application following best practices. 
+📖 **Author** of 4 IT books. 
+🎤 **Speaker & Blogger**—always open to tech discussions!  
 
 ### 📊 Community Reach  
 - **30,000+ followers** on [LinkedIn  ](https://www.linkedin.com/in/kristiyan-velkov-763130b3/)
