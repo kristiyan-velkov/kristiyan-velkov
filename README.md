@@ -2,7 +2,7 @@
 **Front-end Advocate | Meta Certified React.js Developer | Tech Lead | Speaker | Author | JavaScript | TypeScript | React.js | Next.js | Angular | Docker Captain | DevOps | People Management**  
 
 - 🐳 **Docker Captain** - person behind [React.js](https://docs.docker.com/guides/reactjs/), [Angular](https://docs.docker.com/guides/angular), [Vue.js](https://docs.docker.com/guides/vuejs/),[ Node.js](https://docs.docker.com/guides/nodejs/) official Docker sample guides.
-- 👨‍💻 **Vercel (Next.js) Contributer** - added practical examples demonstrating how to containerize Next.js applications with Docker, following production-ready best practices.
+- 👨‍💻 **Vercel (Next.js) Contributer** - added examples for Dockerizing Next.js applications following best practices.
 - 📖 **Author** of 4 IT books. 
 - 🎤 **Speaker & Blogger**—always open to tech discussions!  
 
